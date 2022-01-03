@@ -8,11 +8,6 @@
     -Rock and Chalk: Fork of BTE Roles with features for a climbing server (Author)
 - Mebrooks.dev: Shitty ass website (Author)
 
-## Contact
-[<img align="left" alt="mebrooks.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mebrooks01#3354 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="mebrooks.01 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 ## Stats
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -20,6 +15,12 @@
   <img align="left" alt="mebrooks01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mebrooks01&show_icons=true&theme=dark" />
 
 </details>
+
+## Contact
+[<img align="left" alt="mebrooks.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mebrooks01#3354 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="mebrooks.01 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [website]: https://mebrooks.dev
 [discord]: https://discord.com/users/496463728661889026
